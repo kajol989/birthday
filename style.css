@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.box_full{
+    background-color:#696464;
+}
+.container{
+    width: 500px;
+    height: 1000px;
+}
+.head_box{
+margin-top: 40px;
+}
+.head_logo{
+    color: orange;
+    font-family: Curlz MT;
+    font-size: 47px;
+    font-weight: 900;
+    display: inline-block;
+    
+}
+.head_menu{
+    
+    float:right;
+    display: inline-block;
+   
+}
+.head_menu li{
+list-style: none;
+
+
+}
+.head_menu li a{
+    text-decoration: none;
+    font-family: arial black;
+    color: #e99d12;
+   
+    font-size: 34px;
+}
+
+.banner_text p{
+    color: #0d0b69;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 60px;
+    font-family: auto;
+    font-weight: 700;
+    
+}
+  
+.button{
+    text-align: center;
+}
+.button a{
+    text-decoration: none;
+    font-size: 32px;
+    color: #fd6c04;
+    font-family: arial black;
+}
+    
+
